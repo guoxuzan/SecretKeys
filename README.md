@@ -13,7 +13,7 @@ AppStore 密码键 源码 SecretKeys SourceCode
 
 * 语言上支持中文、英文
 
-<figure class="half">
+<figure class="third">
     <a href="https://github.com/guoxuzan/SecretKeys/blob/master/AppStore/1.png"><img src="https://github.com/guoxuzan/SecretKeys/blob/master/AppStore/2.png"></a>
     <a href="https://github.com/guoxuzan/SecretKeys/blob/master/AppStore/3.png"><img src="https://github.com/guoxuzan/SecretKeys/blob/master/AppStore/4.png"></a>
 </figure>

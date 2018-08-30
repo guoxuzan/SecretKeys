@@ -2,7 +2,7 @@
 
 AppStore 密码键 源码 SecretKeys SourceCode
 
-* <img src="https://github.com/guoxuzan/SecretKeys/blob/master/AppStore/AppIcon.png" width="20">[AppStore地址](https://itunes.apple.com/cn/app/%E5%AF%86%E7%A0%81%E9%94%AE/id1195397069?mt=8)
+* AppStore地址[https://github.com/guoxuzan/SecretKeys/blob/master/AppStore/AppIcon.png](https://itunes.apple.com/cn/app/%E5%AF%86%E7%A0%81%E9%94%AE/id1195397069?mt=8)
 
 * 这是一个极简风格的APP，用于在手机本地保存敏感信息，比如账号密码、家庭住址、私密信息
 
